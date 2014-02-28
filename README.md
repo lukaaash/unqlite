@@ -1,3 +1,5 @@
+This is an unofficial [UnQLite](http://unqlite.org/) clone. It adds a solution for Visual Studio 2012 and a makefile for Unix and gcc, making it simple to compile UnQLite as a DLL.
+
 UnQLite
 =======
 
